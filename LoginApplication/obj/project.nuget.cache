@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jN6/elFbmmu0QF5Sst4p4kAsZ+i7Qwi1E+tcR2t1GufDpBGpk20hZt3Id5FRDMTdT5rexN1HEhZ1x86E3vg3ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwwon\\Desktop\\Programming\\CS\\Projects\\LoginApplication\\LoginApplication\\LoginApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwwon\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.4\\microsoft.aspnetcore.cryptography.internal.7.0.4.nupkg.sha512",
+    "C:\\Users\\kwwon\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.4\\microsoft.aspnetcore.cryptography.keyderivation.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
